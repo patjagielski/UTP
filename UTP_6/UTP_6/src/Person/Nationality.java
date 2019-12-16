@@ -1,0 +1,5 @@
+package Person;
+
+public enum Nationality {
+    POLISH, HUNGARIAN, RUSSIAN, GREEK, JAPANESE, FRENCH, SPANISH, BRITISH, CHINESE, INDIAN
+}
